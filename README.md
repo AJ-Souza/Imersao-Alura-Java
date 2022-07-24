@@ -2,7 +2,7 @@
 
 
 
-Immersion Java project , in order to know some tools, libraries, frameworks and techniques to improve the knowledge in WEB development
+Immersion Java project , in order to know some tools, libraries, frameworks and techniques to improve the knowledge in Java development
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
 
